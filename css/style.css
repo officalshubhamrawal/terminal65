@@ -4,10 +4,7 @@ rrrrr @charset "UTF-8";
 
 /*------------------------------------------------------------------
 
-Template Name:      RealWed | Wedding Vendor & Supplier Directory HTML Template
-Version:            1.0.0
-Date:               4/06/2018
-Author:             Jitu Chauhan
+
 
 ------------------------------------------------------------------
 [CSS Table of contents]
@@ -114,7 +111,7 @@ Author:             Jitu Chauhan
 
 
 body { font-family: 'Rubik', sans-serif; font-size: 16px; line-height: 28px; color: #6f6d72; background-color: #f6f6f6;    /*-webkit-font-smoothing: antialiased; */ text-rendering: optimizeLegibility; font-weight: 400; }
-h1, h2, h3, h4, h5, h6 { color: #fff; margin: 0px 0px 15px 0px; font-weight: 300; font-family: 'Rubik', sans-serif; font-size: 2px; }
+h1, h2, h3, h4, h5, h6 { color:black; margin: 0px 0px 15px 0px; font-weight: 300; font-family: 'Rubik', sans-serif; font-size: 2px; }
 h1 { font-size: 42px; }
 h2 { font-size: 32px; line-height: 42px; }
 h3 { font-size: 20px; line-height: 28px; }
@@ -823,7 +820,7 @@ img.grayscale:hover { filter: grayscale(0); opacity: 1; transition-property: fil
 
 .vendor-thumbnail { border: 1px solid #e6e5e7; padding: 4px; background-color: #fff; border-radius: 4px; margin-bottom: 30px; position: relative; }
 .vendor-img { }
-.vendor-img img { width: 100%; }
+.vendor-img img { width: 50%; }
 .wishlist-sign { position: absolute; top: 15px; right: 20px; text-align: center; }
 .vendor-content { padding: 22px 26px 22px 26px; margin-bottom: 0px; }
 .vendor-content-sidebar { padding: 20px 20px 20px 0px; }
