@@ -88,7 +88,7 @@ const firebaseConfig = {
     document.getElementById('music').innerHTML=childData['music']
     document.getElementById('backup').innerHTML=childData['backup']
     
-    $('<div class="item"><img src="'+ childData['images']+'"></div>')
+    $('<div class="item"><img src="'childData['images']'"></div>')
     .appendTo('.carousel-inner');
     
     
