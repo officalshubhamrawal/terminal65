@@ -211,6 +211,10 @@ jQuery(document).ready(function($) {
 
     }
 
+    /* POP UP Gallery jQuery **/
+
+
+  
     /* accordions jQuery **/
 
     if ($('.collapse').length) {
