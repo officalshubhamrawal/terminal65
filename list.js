@@ -91,7 +91,7 @@ const firebaseConfig = {
     var i =0
   //  console.log(childData.images)
     
-  //   $('<div class="item"><img src="'+ images+'"></div>')
+  //   $('<div class="item"><img   max-width:100%; max-height:auto;  border-radius: 0% src="'+ images+'"></div>')
   //   .appendTo('.carousel-inner');
     
     
